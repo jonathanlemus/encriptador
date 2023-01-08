@@ -1,0 +1,12 @@
+body {
+  background: aliceblue;
+  padding: 0;
+  margin: 0;
+  
+}
+
+
+.sidebar--container {
+  background: #fff;
+  padding: 1em;
+}
